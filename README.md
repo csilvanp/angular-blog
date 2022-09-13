@@ -1,27 +1,5 @@
-# AngularBlog
+## Work in progress ⚠️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular logo" style="height: 100px; width:100px; float:right;"/>
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project is being builded with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. It's mainly inspirated in the "Creating a blog with Angular" project in Angular Bootcamp by [DIO](https://www.dio.me), with some minor changes. My first time trying Angular, totally open to suggestions, so feel free to make a PR if you want!
