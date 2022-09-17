@@ -6,13 +6,12 @@
   max-width: 550px;
   height: fit-content;
   border-radius: 10px;
-  margin: 0px 10px 0px;
 }
 
 .main-card__contents {
   display: flex;
   flex-direction: column;
-  padding: 0px 25px 0px;
+  padding: 0px 40px 0px;
 }
 
 .main-card__contents span {
