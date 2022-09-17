@@ -4,11 +4,12 @@
 }
 
 .menu__container {
-  padding: 20px 20px 0px;
+  padding: 20px 30px 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+
 .simulate__img {
   width: 50px;
   height: 50px;
@@ -20,11 +21,9 @@
   font-size: 22px;
   font-weight: 600;
   color: white;
-  background: linear-gradient(
-    45deg,
-    rgba(245, 35, 201, 1) 0%,
-    rgba(255, 99, 2, 1) 100%
-  );
+  background: linear-gradient(45deg,
+      rgba(245, 35, 201, 1) 0%,
+      rgba(255, 99, 2, 1) 100%);
 }
 
 .menu__list {
@@ -42,12 +41,12 @@
   letter-spacing: 1px;
 }
 
-.menu__items > a {
+.menu__items>a {
   color: rgb(124, 113, 113);
   transition: color 0.2s;
   text-decoration: none;
 }
 
-.menu__items > a:hover {
+.menu__items>a:hover {
   color: rgb(231, 40, 136);
 }
