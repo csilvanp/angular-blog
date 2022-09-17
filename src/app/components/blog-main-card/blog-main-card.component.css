@@ -1,0 +1,34 @@
+.main-card__container {
+  display: flex;
+}
+
+.main-card__img {
+  max-width: 550px;
+  height: fit-content;
+  border-radius: 10px;
+  margin: 0px 10px 0px;
+}
+
+.main-card__contents {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 25px 0px;
+}
+
+.main-card__contents span {
+  font-size: 12px;
+  font-weight: 600;
+  color: #afafaf;
+}
+
+.main-card__contents h3 {
+  margin: 10px 0px 10px;
+  font-size: 45px;
+  line-height: 55px;
+  color: #1b1b1b;
+}
+
+.main-card__contents p {
+  font-size: 14px;
+  line-height: 22px;
+}

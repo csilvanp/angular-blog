@@ -5,6 +5,12 @@
 export const environment = {
   production: false,
   menu_items: ["Home", "Blog", "Bookmarks", "Elements", "Playlists", "Books"],
+  mainCard: {
+    imgSrc: "https://uploads-ssl.webflow.com/621765eac54e9f270915cf4f/62274d2de7b1b45f49f7a33d_download__2_.png",
+    createdAt: "March 05, 2021",
+    title: "Mudanças do AngularJS para o Angular atual",
+    description: " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptas repudiandae incidunt officia explicabo at provident nesciunt obcaecati. Nobis, illo mollitia."
+  },
 };
 
 /*
