@@ -1,0 +1,35 @@
+.sub-card__container {
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+}
+
+.sub-card__img {
+  max-width: 320px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.sub-card__contents {
+  padding: 20px 0px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sub-card__contents span {
+  font-size: 12px;
+  font-weight: 600;
+  color: #afafaf;
+}
+
+.sub-card__contents h3 {
+  margin: 10px 0px 10px;
+  font-size: 25px;
+  line-height: 30px;
+  color: #1b1b1b;
+}
+
+.sub-card__contents p {
+  font-size: 14px;
+  line-height: 22px;
+}
